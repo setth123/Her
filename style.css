@@ -64,8 +64,9 @@ body {
 }
 .name{
  font-family: 'Poppins';
-  font-size: 5vw;
+  font-size: 1.7em;
   margin-top: 60vh;
+  text-align:center;
   color:black;
    z-index:1000
 }
